@@ -1,2 +1,3 @@
 # magic-page
-For my own magic page
+My own magic page
+
